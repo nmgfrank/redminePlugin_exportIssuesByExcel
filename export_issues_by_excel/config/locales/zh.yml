@@ -1,0 +1,4 @@
+# English strings go here for Rails i18n
+zh:
+  # my_label: "My label"
+  status_change_label: "状态切换时间"
